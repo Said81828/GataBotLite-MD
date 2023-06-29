@@ -20,8 +20,8 @@ global.owner = [
 ['50664668406', 'My Kim Dan', true],
 ['593968585383'], ['59894808483'], ['5217441745001'], ['5492266613038']]
 
-global.mods = [] 
-global.prems = []
+global.mods = [] 528186565447
+global.prems = []18299334869
    
 // ES ➜ Agregue el código de idioma el cual usará GataBot  
 // EN ➜ Add the language code which GataBot will use
